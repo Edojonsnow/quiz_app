@@ -1,0 +1,276 @@
+[{
+  "_id": "question1",
+  "text": "What is the capital of France?",
+  "options": [
+    {
+      "_id": "option1",
+      "text": "Paris"
+    },
+    {
+      "_id": "option2",
+      "text": "London"
+    },
+    {
+      "_id": "option3",
+      "text": "Berlin"
+    },
+    {
+      "_id": "option4",
+      "text": "Rome"
+    }
+  ],
+  "correctAnswer": "option1"
+},
+{
+  "_id": "question2",
+  "text": "Which planet is known as the Red Planet?",
+  "options": [
+    {
+      "_id": "option1",
+      "text": "Mars"
+    },
+    {
+      "_id": "option2",
+      "text": "Venus"
+    },
+    {
+      "_id": "option3",
+      "text": "Jupiter"
+    },
+    {
+      "_id": "option4",
+      "text": "Saturn"
+    }
+  ],
+  "correctAnswer": "option1"
+},
+{
+  "_id": "question3",
+  "text": "What is the largest ocean in the world?",
+  "options": [
+    {
+      "_id": "option1",
+      "text": "Pacific Ocean"
+    },
+    {
+      "_id": "option2",
+      "text": "Atlantic Ocean"
+    },
+    {
+      "_id": "option3",
+      "text": "Indian Ocean"
+    },
+    {
+      "_id": "option4",
+      "text": "Arctic Ocean"
+    }
+  ],
+  "correctAnswer": "option1"
+},
+{
+  "_id": "question4",
+  "text": "Who painted the Mona Lisa?",
+  "options": [
+    {
+      "_id": "option1",
+      "text": "Leonardo da Vinci"
+    },
+    {
+      "_id": "option2",
+      "text": "Pablo Picasso"
+    },
+    {
+      "_id": "option3",
+      "text": "Vincent van Gogh"
+    },
+    {
+      "_id": "option4",
+      "text": "Michelangelo"
+    }
+  ],
+  "correctAnswer": "option1"
+},
+{
+  "_id": "question5",
+  "text": "What is the largest planet in our solar system?",
+  "options": [
+    {
+      "_id": "option1",
+      "text": "Jupiter"
+    },
+    {
+      "_id": "option2",
+      "text": "Saturn"
+    },
+    {
+      "_id": "option3",
+      "text": "Mars"
+    },
+    {
+      "_id": "option4",
+      "text": "Neptune"
+    }
+  ],
+  "correctAnswer": "option1"
+},
+{
+  "_id": "question6",
+  "text": "Who wrote the novel 'Pride and Prejudice'?",
+  "options": [
+    {
+      "_id": "option1",
+      "text": "Jane Austen"
+    },
+    {
+      "_id": "option2",
+      "text": "William Shakespeare"
+    },
+    {
+      "_id": "option3",
+      "text": "Mark Twain"
+    },
+    {
+      "_id": "option4",
+      "text": "Charles Dickens"
+    }
+  ],
+  "correctAnswer": "option1"
+},
+{
+  "_id": "question7",
+  "text": "What is the chemical symbol for gold?",
+  "options": [
+    {
+      "_id": "option1",
+      "text": "Au"
+    },
+    {
+      "_id": "option2",
+      "text": "Ag"
+    },
+    {
+      "_id": "option3",
+      "text": "Fe"
+    },
+    {
+      "_id": "option4",
+      "text": "Cu"
+    }
+  ],
+  "correctAnswer": "option1"
+},
+{
+  "_id": "question8",
+  "text": "Who is credited with inventing the telephone?",
+  "options": [
+    {
+      "_id": "option1",
+      "text": "Alexander Graham Bell"
+    },
+    {
+      "_id": "option2",
+      "text": "Thomas Edison"
+    },
+    {
+      "_id": "option3",
+      "text": "Albert Einstein"
+    },
+    {
+      "_id": "option4",
+      "text": "Isaac Newton"
+    }
+  ],
+  "correctAnswer": "option1"
+},
+{
+  "_id": "question9",
+  "text": "Which country is home to the kangaroo?",
+  "options": [
+    {
+      "_id": "option1",
+      "text": "Australia"
+    },
+    {
+      "_id": "option2",
+      "text": "Canada"
+    },
+    {
+      "_id": "option3",
+      "text": "Brazil"
+    },
+    {
+      "_id": "option4",
+      "text": "India"
+    }
+  ],
+  "correctAnswer": "option1"
+},
+{
+  "_id": "question10",
+  "text": "What is the tallest mountain in the world?",
+  "options": [
+    {
+      "_id": "option1",
+      "text": "Mount Everest"
+    },
+    {
+      "_id": "option2",
+      "text": "K2"
+    },
+    {
+      "_id": "option3",
+      "text": "Kilimanjaro"
+    },
+    {
+      "_id": "option4",
+      "text": "Matterhorn"
+    }
+  ],
+  "correctAnswer": "option1"
+},
+{
+  "_id": "question11",
+  "text": "Who is known as the 'Father of Modern Physics'?",
+  "options": [
+    {
+      "_id": "option1",
+      "text": "Albert Einstein"
+    },
+    {
+      "_id": "option2",
+      "text": "Isaac Newton"
+    },
+    {
+      "_id": "option3",
+      "text": "Galileo Galilei"
+    },
+    {
+      "_id": "option4",
+      "text": "Niels Bohr"
+    }
+  ],
+  "correctAnswer": "option1"
+},
+{
+  "_id": "question12",
+  "text": "Which city is famous for the Taj Mahal?",
+  "options": [
+    {
+      "_id": "option1",
+      "text": "Agra"
+    },
+    {
+      "_id": "option2",
+      "text": "Jaipur"
+    },
+    {
+      "_id": "option3",
+      "text": "Delhi"
+    },
+    {
+      "_id": "option4",
+      "text": "Mumbai"
+    }
+  ],
+  "correctAnswer": "option1"
+}]
